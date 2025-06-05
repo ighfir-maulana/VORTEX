@@ -17,7 +17,7 @@ Di era pertanian modern, pengelolaan data yang akurat adalah kunci keberhasilan.
 VORTEX bertujuan untuk menjadi asisten digital kamu dalam dunia pertanian vertikal dan hidroponik. Berikut adalah fitur-fitur utamanya:
 
 * **🌱 Pengelolaan Data Tanaman:** Catat dan kelola informasi detail tentang setiap tanaman kamu, termasuk nama, jenis, jumlah, dan kondisi terkini.
-* **Harvest Tracker 📊:** Pantau hasil panen kamu dengan mencatat jumlah dan kualitas panen dari setiap tanaman.
+* **📊 Harvest Tracker:** Pantau hasil panen kamu dengan mencatat jumlah dan kualitas panen dari setiap tanaman.
 * **💧 Pencatatan Penggunaan Bahan:** Rekam penggunaan pupuk cair dan pestisida untuk analisis biaya dan efisiensi.
 * **🧠 Rekomendasi Tindakan Cerdas:** Dapatkan rekomendasi tindakan spesifik berdasarkan kondisi tanaman kamu (misalnya, jika layu, terinfeksi, atau sedang berbuah).
 * **📈 Visualisasi & Pengurutan Data:** Tampilkan data tanaman dan hasil panen dengan opsi pengurutan berdasarkan kriteria tertentu untuk memudahkan analisis.
@@ -36,7 +36,7 @@ VORTEX bertujuan untuk menjadi asisten digital kamu dalam dunia pertanian vertik
 
 Proyek ini dibangun menggunakan:
 
-* **[Go (Golang)](https://go.dev/)**: Bahasa pemrograman yang efisien dan kamul.
+* **[Go (Golang)](https://go.dev/)**: Bahasa pemrograman yang efisien.
 
 ---
 
@@ -44,7 +44,7 @@ Proyek ini dibangun menggunakan:
 
 Untuk menjalankan VORTEX di lingkungan lokal kamu, ikuti langkah-langkah berikut:
 
-1.  **Pastikan kamu memiliki Go terinstal** di sistem kamu (versi 1.22 atau lebih tinggi).
+1.  **Pastikan kamu memiliki Go terinstal** di sistem kamu (versi 1.23 atau lebih tinggi).
 2.  **Clone repositori ini** ke komputer kamu:
     ```bash
     git clone [https://github.com/YourUsername/VORTEX.git](https://github.com/YourUsername/VORTEX.git) # Ganti dengan URL repositori kamu
