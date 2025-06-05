@@ -1,6 +1,6 @@
 # 🚀 VORTEX: Vertical Optimized Resource Tracking and EXecution 🚀
 
-![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?style=for-the-badge&logo=go)
+![Go](https://img.shields.io/badge/Go-1.23%2B-00ADD8?style=for-the-badge&logo=go)
 
 ---
 
